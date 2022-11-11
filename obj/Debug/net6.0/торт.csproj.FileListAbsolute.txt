@@ -1,0 +1,15 @@
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.csproj.AssemblyReference.cache
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.AssemblyInfoInputs.cache
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.AssemblyInfo.cs
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.csproj.CoreCompileInputs.cache
+C:\Users\porfi\source\repos\торт\bin\Debug\net6.0\торт.exe
+C:\Users\porfi\source\repos\торт\bin\Debug\net6.0\торт.deps.json
+C:\Users\porfi\source\repos\торт\bin\Debug\net6.0\торт.runtimeconfig.json
+C:\Users\porfi\source\repos\торт\bin\Debug\net6.0\торт.dll
+C:\Users\porfi\source\repos\торт\bin\Debug\net6.0\торт.pdb
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.dll
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\refint\торт.dll
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.pdb
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\торт.genruntimeconfig.cache
+C:\Users\porfi\source\repos\торт\obj\Debug\net6.0\ref\торт.dll
